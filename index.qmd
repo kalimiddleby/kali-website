@@ -2,9 +2,7 @@
 title: "Kali Middleby"
 ---
 
-I'm a plant ecophysiologist interested in how climate change, particularly warming, shapes plant function and ecosystem resilience. My research integrates physiological, ecological, and modelling approaches to understand how leaves and canopies interact with their thermal environment, and increasingly seeks to scale these processes up to the species and community level. My work combines field physiology with process-based vegetation modelling (TROLL, PlantSimEngine, PlantBiophysics).
-
-<!-- Adapted from your CV's Research Interests section — edit freely. -->
+I'm a plant ecophysiologist interested in how climate change, particularly warming, shapes plant function and ecosystem resilience. My research integrates physiological, ecological, and modelling approaches to understand how leaves and canopies interact with their thermal environment, and increasingly seeks to scale these processes up to the species and community level. I use natural environmental gradients alongside manipulative experiments — both in-situ and in climate chambers — to study acclimation to heat and drought stress, and the trade-offs between them.
 
 ::: {.link-list}
 [Google Scholar](https://scholar.google.com/citations?user=Yv08IiIAAAAJ&hl=de) &nbsp;·&nbsp;
@@ -14,27 +12,25 @@ I'm a plant ecophysiologist interested in how climate change, particularly warmi
 [Email](mailto:kalimiddleby@gmail.com)
 :::
 
-<!-- Email still needs your real address — swap it into the mailto: link above. -->
-
 ## Professional experience
 
 ```{=html}
 <table>
 <colgroup>
-  <col style="width: 20%">
+  <col style="width: 16%">
   <col style="width: 34%">
-  <col style="width: 46%">
+  <col style="width: 50%">
 </colgroup>
 <thead>
 <tr><th>Dates</th><th>Role</th><th>Institution</th></tr>
 </thead>
 <tbody>
-<tr><td>Jun 2026 –</td><td>PTL-3 Postdoc Fellow</td><td>AMAP, University of Montpellier, France</td></tr>
-<tr><td>Apr 2025 – Jun 2026</td><td>Postdoc</td><td>AMAP, IRD Occitanie, France</td></tr>
-<tr><td>Jan – Apr 2025</td><td>Ernst Mayr Postdoc Fellow</td><td>Smithsonian Tropical Research Institute, Panama</td></tr>
-<tr><td>Dec 2024 – Feb 2025</td><td>Postdoc</td><td>James Cook University, Australia</td></tr>
-<tr><td>2020 – 2024</td><td>PhD, Natural and Physical Sciences (Cum Laude, University Medal of Excellence)</td><td>James Cook University, Australia</td></tr>
-<tr><td>2017 – 2020</td><td>B.Sc. Honours, Molecular Ecosystem Science (First Class Honours, ranked 1st in cohort)</td><td>University of Göttingen, Germany</td></tr>
+<tr><td>2026–2027</td><td>PTL-3 Postdoc Fellow</td><td>AMAP, University of Montpellier, France</td></tr>
+<tr><td>2025–2026</td><td>Postdoc</td><td>AMAP, IRD Occitanie, France</td></tr>
+<tr><td>2025</td><td>Ernst Mayr Postdoc Fellow</td><td>Smithsonian Tropical Research Institute, Panama</td></tr>
+<tr><td>2024–2025</td><td>Postdoc</td><td>James Cook University, Australia</td></tr>
+<tr><td>2020–2024</td><td>PhD, Natural and Physical Sciences (Cum Laude, University Medal of Excellence)</td><td>James Cook University, Australia</td></tr>
+<tr><td>2017–2020</td><td>B.Sc. Honours, Molecular Ecosystem Science (First Class Honours, ranked 1st in cohort)</td><td>University of Göttingen, Germany</td></tr>
 </tbody>
 </table>
 ```
@@ -42,11 +38,11 @@ I'm a plant ecophysiologist interested in how climate change, particularly warmi
 ## Research locations
 
 ```{=html}
-<div id="research-map" style="height: 320px; border-radius: 6px; margin-top: 0.5rem;"></div>
+<div id="research-map" style="height: 320px; border-radius: 10px; margin-top: 0.5rem;"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  const map = L.map('research-map', {scrollWheelZoom: false}).setView([10, 10], 2);
+  const map = L.map('research-map', {scrollWheelZoom: false}).setView([15, 15], 2);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors',
     maxZoom: 18
@@ -54,16 +50,23 @@ I'm a plant ecophysiologist interested in how climate change, particularly warmi
 
   const sites = [
     { name: "James Cook University / Daintree, Australia", coords: [-16.92, 145.77] },
-    { name: "STRI, Panama", coords: [9.0, -79.5] },
+    { name: "Smithsonian Tropical Research Institute, Panama", coords: [9.0, -79.5] },
     { name: "Mbalmayo, Cameroon", coords: [3.52, 11.51] },
     { name: "AMAP, Montpellier, France", coords: [43.61, 3.88] },
-    { name: "Paracou, French Guiana", coords: [5.28, -52.93] }
+    { name: "Paracou, French Guiana", coords: [5.28, -52.93] },
+    { name: "University of Göttingen, Germany", coords: [51.53, 9.94] }
   ];
 
   sites.forEach(site => {
-    L.marker(site.coords).addTo(map).bindPopup(site.name);
+    L.circleMarker(site.coords, {
+      radius: 8,
+      fillColor: "#74144F",
+      color: "#F1EFF4",
+      weight: 2,
+      fillOpacity: 0.9
+    }).addTo(map).bindPopup(site.name);
   });
 </script>
 ```
 
-<!-- Coordinates above are approximate — adjust as needed, and add/remove field sites. -->
+<!-- Coordinates are approximate — adjust as needed, and add/remove field sites. -->

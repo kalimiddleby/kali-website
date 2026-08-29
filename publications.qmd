@@ -2,34 +2,36 @@
 title: "Publications"
 ---
 
-10 peer-reviewed publications (3 as lead author), h-index 6. 3 manuscripts currently under review (New Phytologist, Biotropica).
+10 peer-reviewed publications (3 as lead author), h-index 6.
 
-## In review
+## Published
 
-- 3 manuscripts currently under review (New Phytologist, Biotropica).
-
-## 2026
+### 2026
 
 - Cheesman, A.W., Cox, P., Jones, S., **Middleby, K.B.**, Cernusak, L.A. and Franks, P.J. (2026). Influence of vapour pressure deficit and CO2 on the thermal sensitivity of stomatal function in tropical trees. *New Phytologist*. [DOI](https://doi.org/10.1111/nph.71249)
 - Engert, J.E., **Middleby, K.**, Vogado, N. and Laurance, S.G.W. (2026). Seed collection practices in tropical rainforest restoration and implications for provenance research. *Forest Ecology and Management*. [DOI](https://doi.org/10.1016/j.foreco.2025.123376)
 
-## 2025
+### 2025
 
 - Cheesman, A.W., **Middleby, K.B.**, Orr, R., Han, L., Rossouw, G. and Cernusak, L.A. (2025). Acclimation of mango (*Mangifera indica* cv. Calypso) to canopy light gradients — scaling from leaf to canopy. *Tree Physiology*, 45(10), tpaf109. [DOI](https://doi.org/10.1093/treephys/tpaf109)
 - **Middleby, K.B.**, Jordan, R., Cheesman, A.W., Rossetto, M., Breed, M.F., Crayn, D.M. and Cernusak, L.A. (2025). Local adaptation drives leaf thermoregulation in tropical rainforest trees. *Global Change Biology*, 31(9), e70461. [DOI](https://doi.org/10.1111/gcb.70461)
 - Crous, K.Y., **Middleby, K.B.**, Cheesman, A.W., Bouet, A.Y.M., Schiffer, M., Liddell, M.J., Barton, C.V.M. and Cernusak, L.A. (2025). Leaf warming in the canopy of mature tropical trees reduced photosynthesis due to downregulation of photosynthetic capacity and reduced stomatal conductance. *New Phytologist*, 245, 1421–1436. [DOI](https://doi.org/10.1111/nph.20320)
 - **Middleby, K.B.**, Cheesman, A.W., Hopkinson, R., Baker, L., Ramirez Garavito, S., Breed, M.F. and Cernusak, L.A. (2025). Ecotypic variation in leaf thermoregulation and heat tolerance but not thermal safety margins in tropical trees. *Plant, Cell & Environment*, 48, 649–663. [DOI](https://doi.org/10.1111/pce.15141)
 
-## 2024
+### 2024
 
-- **Middleby, K.**, Cernusak, L.A., Breed, M.F., Crayn, D.M., Laurance, S.G.W., Preece, N., van Oosterzee, P., Engert, J. and Cheesman, A.W. (2024). Strong site and provenance effects on tropical tree growth and survival, but mixed evidence for local adaptation. *Authorea* (preprint). [DOI](https://doi.org/10.22541/au.173264018.82103795/v1)
 - **Middleby, K.B.**, Cheesman, A.W. and Cernusak, L.A. (2024). Impacts of elevated temperature and vapour pressure deficit on leaf gas exchange and plant growth across six tropical rainforest tree species. *New Phytologist*, 243, 648–661. [DOI](https://doi.org/10.1111/nph.19822)
 
-## 2023
+### 2023
 
 - Doughty, C.E., Keany, J.M., Wiebe, B.C., Rey-Sanchez, C., Carter, K.R., **Middleby, K.B.**, Cheesman, A.W., et al. (2023). Tropical forests are approaching critical temperature thresholds. *Nature*, 621, 105–111. [DOI](https://doi.org/10.1038/s41586-023-06391-z)
 - Crous, K.Y., Cheesman, A.W., **Middleby, K.**, Rogers, E.I.E., Wujeska-Klause, A., Bouet, A.Y.M., Ellsworth, D.S., Liddell, M.J., Cernusak, L.A. and Barton, C.V.M. (2023). Similar patterns of leaf temperatures and thermal acclimation to warming in temperate and tropical tree canopies. *Tree Physiology*, 43(8), 1383–1399. [DOI](https://doi.org/10.1093/treephys/tpad054)
 
-## 2021
+### 2021
 
 - Dorji, Y., Schuldt, B., Neudam, L., Dorji, R., **Middleby, K.**, Isasa, E., Körber, K., Ammer, C., Annighöfer, P. and Seidel, D. (2021). Three-dimensional quantification of tree architecture from mobile laser scanning and geometry analysis. *Trees*, 35, 1385–1398. [DOI](https://doi.org/10.1007/s00468-021-02124-9)
+
+## Preprints / in review
+
+- 3 manuscripts currently under review (New Phytologist, Biotropica).
+- **Middleby, K.**, Cernusak, L.A., Breed, M.F., Crayn, D.M., Laurance, S.G.W., Preece, N., van Oosterzee, P., Engert, J. and Cheesman, A.W. (2024). Strong site and provenance effects on tropical tree growth and survival, but mixed evidence for local adaptation. *Authorea* (preprint). [DOI](https://doi.org/10.22541/au.173264018.82103795/v1)

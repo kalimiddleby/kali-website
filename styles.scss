@@ -1,70 +1,138 @@
 /*-- scss:defaults --*/
 
-$primary: #7d5a82;      // pale mauve accent (deepened slightly for link contrast on white)
-$turquoise: #8fc9c5;    // secondary accent — pale turquoise
-$maroon: #7a3b41;       // secondary accent — maroon, used sparingly
-$body-color: #262626;
-$link-color: $primary;
-$navbar-bg: #ffffff;
-$navbar-fg: #262626;
+$sage: #A7C7C1;          // main background
+$lavender-grey: #B3B4C5; // cards / secondary blocks / image backgrounds
+$plum: #74144F;          // accent — headings, active nav, buttons, emphasis
+$offwhite: #F1EFF4;      // primary content background
+$text: #35445F;          // body text
+
+$primary: $plum;
+$body-color: $text;
+$link-color: $plum;
+$headings-color: $plum;
+$navbar-bg: $sage;
+$navbar-fg: $text;
+$footer-bg: $sage;
+$footer-fg: $text;
 $font-size-root: 17px;
 $headings-font-weight: 600;
-$h1-font-size: 2rem;
-$h2-font-size: 1.4rem;
+$h1-font-size: 1.85rem;
+$h2-font-size: 1.3rem;
 
 /*-- scss:rules --*/
 
-// keep headers restrained — no oversized hero type
-.navbar-title {
-  font-weight: 600;
+body {
+  background-color: $sage;
 }
 
-// simple text-led header, no chunky banner block
-#title-block-header {
-  margin-bottom: 1.5rem;
-  .title {
-    font-size: 1.9rem;
-    font-weight: 600;
+// the main content sits as a soft off-white card over the sage page background
+main.content {
+  background-color: $offwhite;
+  border-radius: 14px;
+  padding: 2.5rem 3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 780px) {
+  main.content {
+    padding: 1.5rem;
+    border-radius: 8px;
   }
 }
 
-// links list on About page
+.navbar {
+  box-shadow: none;
+  border-bottom: none;
+}
+
+.navbar-title {
+  font-weight: 600;
+  color: $plum !important;
+}
+
+.navbar-nav .nav-link {
+  color: $text !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: $plum !important;
+  border-bottom: 2px solid $plum;
+}
+
+// text-led header, no chunky banner block
+#title-block-header {
+  margin-bottom: 1.5rem;
+  .title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: $plum;
+  }
+}
+
+// links row on About page
 .link-list a {
   margin-right: 1.2rem;
+  color: $plum;
+  font-weight: 500;
 }
 
-// institution timeline table — quiet styling, no heavy borders
+// institution timeline table — quiet card styling
 table {
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   width: 100%;
   font-size: 0.95rem;
+  background-color: $lavender-grey;
+  border-radius: 10px;
+  overflow: hidden;
 }
 table th, table td {
-  padding: 0.4rem 0.6rem;
-  border-bottom: 1px solid #e8e0e9;
+  padding: 0.6rem 0.9rem;
+  border-bottom: 1px solid rgba(255,255,255,0.4);
   text-align: left;
+  color: $text;
 }
 table th {
-  border-bottom: 2px solid $turquoise;
+  background-color: rgba(116, 20, 79, 0.08);
   font-weight: 600;
+  color: $plum;
+}
+table tr:last-child td {
+  border-bottom: none;
 }
 
-// flat list pages (grants, media) — quiet spacing between entries
+// flat list pages (grants, media) — card entries
 .flat-entry {
-  margin-bottom: 1.4rem;
-  padding-bottom: 1.4rem;
-  border-bottom: 1px solid $turquoise;
-}
-.flat-entry:last-child {
-  border-bottom: none;
+  background-color: $lavender-grey;
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1rem;
 }
 .flat-entry .entry-dates {
   font-weight: 600;
-  color: $maroon;
+  color: $plum;
+}
+.flat-entry .entry-amount {
+  display: inline-block;
+  background-color: $plum;
+  color: $offwhite;
+  border-radius: 999px;
+  padding: 0.2rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
-// research theme headings — small mauve rule instead of a heavy border
+// research theme cards — small plum rule + card background
+.research-theme {
+  background-color: $lavender-grey;
+  border-radius: 10px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.4rem;
+}
 .research-theme h2 {
-  border-left: 3px solid $primary;
+  border-left: 3px solid $plum;
   padding-left: 0.6rem;
+  margin-top: 0;
 }
