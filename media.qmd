@@ -1,0 +1,40 @@
+---
+title: "Media"
+---
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> Cover feature, *Global Change Biology*<br>
+Thermal image of canopy leaves, Volume 31, Issue 9 (28 Aug 2025). Image credit: Kali Middleby. [View issue](https://doi.org/10.1111/gcb.17329)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> Cover feature, *Science*<br>
+Thermal image of canopy leaves, Volume 388, Issue 6752 (12 Jun 2025). Image credit: Kali Middleby. [View issue](https://www.science.org/toc/science/388/6752)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2023:</span> Cover feature, *Nature*<br>
+Thermal image of canopy leaves, Volume 621, Issue 7977 (07 Sep 2023). Image credit: Kali Middleby (James Cook University). [View issue](https://shorturl.at/t4VaD)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> The Conversation<br>
+Middleby, K. & Cernusak, L. "Some tropical trees cool their leaves to survive the heat – but not all species have ways to cope." (05 Sep 2025). [Read the article](https://shorturl.at/oYO2O)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> The Conversation<br>
+Middleby, K. & Crous, K. "Study shows hot leaves can't catch carbon from the air – it's bad news for rainforests and Earth." (18 Jan 2025). [Read the article](https://shorturl.at/iGujv)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> Rainforest Rescue Newsletter<br>
+Middleby, K. "Choosing the Right Seeds for a Changing World." (06 Feb 2025). [Read the article](https://shorturl.at/49QGz)
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2023:</span> ABC Far North Queensland — radio interview<br>
+Interviewed to discuss the paper "Tropical forests are approaching critical temperature thresholds" (aired 24 Aug 2023).
+:::
+
+<!-- Full list from your CV's Science Communication section, most recent first. -->

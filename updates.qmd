@@ -1,0 +1,10 @@
+---
+title: "Updates"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, image]
+  date-format: "MMMM YYYY"
+page-layout: full
+---

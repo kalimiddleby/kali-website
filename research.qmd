@@ -1,0 +1,67 @@
+---
+title: "Research"
+---
+
+Tropical forests are increasingly exposed to warmer, drier atmospheric conditions that can exceed the physiological limits of many tree species. My research asks how trees acclimate or adapt to these conditions — using leaf temperature as the biophysical link between climate and physiology, and combining plant ecophysiology (gas exchange, chlorophyll fluorescence) with ecological genomics, remote sensing, and mechanistic modelling. This work spans Germany, Australia, Panama, French Guiana, and Cameroon.
+
+::: {.research-theme}
+## Temporal dynamics of heat damage and recovery
+
+Most studies of heat stress treat damage as an instantaneous threshold, but real heat exposure — and recovery from it — unfolds over time. Current work, framed around thermal death time models, treats heat damage as a dynamic, cumulative process rather than a fixed limit, and asks whether recovery from acute heat stress is impaired by concurrent drought, and whether tropical and temperate species differ in how quickly damage accumulates with time and temperature. This is being tested through a field campaign in Mbalmayo, Cameroon — acute in-canopy leaf heating with tree climbers, tracking fluorescence recovery over the following week — with a parallel field season planned at Paracou, French Guiana using canopy boom-lift access.
+:::
+
+::: {.research-theme}
+## Age dependence of thermal sensitivity
+
+Leaf age is rarely accounted for in studies of photosynthetic heat tolerance, despite likely shaping how much thermal stress a leaf can withstand. As part of my current PTL-3 fellowship at AMAP, I'm investigating how leaf age influences canopy energy balance and the seasonal acclimation of photosynthetic temperature optima in African tropical trees, based at the same Cameroon field site — tracking gas exchange and leaf traits across 30 trees and 10 species from flushing through to senescence, and testing the results in the individual-based forest model TROLL.
+
+*Manuscripts from this work are in preparation.*
+:::
+
+::: {.research-theme}
+## Linking phenology, leaf age, and traits
+
+Before the current Cameroon-based work, a postdoc at AMAP (IRD, Montpellier) examined how leaf age–trait relationships shape leaf longevity and optimal flushing strategies, based at the Paracou field site in French Guiana. This combined trait-based predictions of phenology (using an optimality framework) with drone-based monitoring of canopy flushing, linking leaf demography directly to carbon economics.
+
+**In preparation:** Middleby, Barbier, Heuret & Maréchaux
+:::
+
+::: {.research-theme}
+## Decoupling of photosynthesis and stomatal conductance at high temperatures
+
+Stomatal opening can cool leaves under extreme heat but increases hydraulic risk — raising the question of whether heat avoidance and drought tolerance are coordinated strategies in tropical trees. As an Ernst Mayr Fellow at the Smithsonian Tropical Research Institute, I used elevational gradients in Panama to test photosynthetic and stomatal responses to leaf temperatures up to 50°C, providing some of the first direct evidence of stomatal re-opening at extreme leaf temperatures — and found that heat avoidance and drought tolerance operate largely independently. A parallel strand uses generalised additive models with ecosystem flux data from James Cook University to examine the same decoupling at stand level.
+
+**In review:** Middleby, Rojas-González & Slot &nbsp;·&nbsp; **In preparation:** Middleby, Rifai & Cernusak
+:::
+
+::: {.research-theme}
+## Patterns and drivers of thermoregulation
+
+A key question is whether trees can actively regulate leaf temperature to avoid heat stress. During my PhD at James Cook University, I combined leaf-to-air temperature differences (ΔT) as a quantitative phenotype with genome-wide association analysis and generalised dissimilarity modelling, showing that divergent selection linked to both temperature and moisture underlies patterns of thermoregulatory trait variation in tropical rainforest trees — evidence of local adaptation operating on this trait.
+
+**Key publication:** Middleby et al. 2025, *Global Change Biology* ([DOI](https://doi.org/10.1111/gcb.70461))
+:::
+
+::: {.research-theme}
+## In-situ leaf warming
+
+Working with Kristine Crous and Chris Doughty, I contributed to one of the longest-running in-situ leaf-warming experiments in a tropical rainforest — continuously heating upper-canopy leaves by +4°C in the Daintree Rainforest, Australia. I helped design and run measurement campaigns tracking how experimental warming affects leaf temperature, photosynthesis, stomatal conductance, respiration, and heat tolerance in mature trees, and led the synthesis linking these to mechanistic leaf energy balance models. This work — including a widely-cited *Nature* paper showing tropical forests are approaching critical temperature thresholds — was also the source of the thermal imagery later featured on the covers of *Nature*, *Science*, and *Global Change Biology*.
+
+**Key publications:** Doughty et al. 2023, *Nature* ([DOI](https://doi.org/10.1038/s41586-023-06391-z)) · Crous et al. 2023, *Tree Physiology* ([DOI](https://doi.org/10.1093/treephys/tpad054)) · Crous, Middleby et al. 2025, *New Phytologist* ([DOI](https://doi.org/10.1111/nph.20320))
+:::
+
+::: {.research-theme}
+## Integrating climate adaptation into rainforest restoration
+
+Alongside the physiological questions above, I've focused on making this research directly usable for restoration. During my PhD, I established the [TropAdapt](https://tropadapt.org/) reciprocal transplant trial — a multi-species provenance experiment co-developed with NGOs, Indigenous rangers, and botanical institutions to inform climate-aware seed sourcing, which revealed species-specific ecotypic variation in heat tolerance and leaf temperature under common-garden conditions. A complementary study with Jayden Engert examining current seed collection practices in restoration nurseries found trade-offs between climate matching and genetic connectivity that restoration practitioners need to weigh directly.
+
+**Key publications:** Engert, Middleby et al. 2026, *Forest Ecology and Management* ([DOI](https://doi.org/10.1016/j.foreco.2025.123376)) · Middleby et al. 2025, *Plant, Cell & Environment* ([DOI](https://doi.org/10.1111/pce.15141)) · Middleby et al. 2024, *Authorea preprint* ([DOI](https://doi.org/10.22541/au.173264018.82103795/v1))
+:::
+
+::: {.research-theme}
+## Bachelor's thesis: oxygen isotopes as a proxy for leaf temperature
+
+This is where the thermoregulation question started for me. During my B.Sc. at the University of Göttingen, I independently designed a project testing whether oxygen isotopes in leaf cellulose could serve as a proxy for photosynthesis-weighted canopy leaf temperature — combining field measurements of leaf temperature and gas exchange across a temperate forest's vertical canopy gradient with stable oxygen isotope sampling and eddy covariance data. The work showed that cellulose isotope signals were confounded by carryover from the previous year's source water early in the growing season, limiting their use as a clean seasonal temperature proxy.
+
+*Presented at the American Geophysical Union Fall Meeting, New Orleans, 2021 (nominated for a student presentation award).*
+:::

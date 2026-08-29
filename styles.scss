@@ -1,0 +1,70 @@
+/*-- scss:defaults --*/
+
+$primary: #7d5a82;      // pale mauve accent (deepened slightly for link contrast on white)
+$turquoise: #8fc9c5;    // secondary accent — pale turquoise
+$maroon: #7a3b41;       // secondary accent — maroon, used sparingly
+$body-color: #262626;
+$link-color: $primary;
+$navbar-bg: #ffffff;
+$navbar-fg: #262626;
+$font-size-root: 17px;
+$headings-font-weight: 600;
+$h1-font-size: 2rem;
+$h2-font-size: 1.4rem;
+
+/*-- scss:rules --*/
+
+// keep headers restrained — no oversized hero type
+.navbar-title {
+  font-weight: 600;
+}
+
+// simple text-led header, no chunky banner block
+#title-block-header {
+  margin-bottom: 1.5rem;
+  .title {
+    font-size: 1.9rem;
+    font-weight: 600;
+  }
+}
+
+// links list on About page
+.link-list a {
+  margin-right: 1.2rem;
+}
+
+// institution timeline table — quiet styling, no heavy borders
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+}
+table th, table td {
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid #e8e0e9;
+  text-align: left;
+}
+table th {
+  border-bottom: 2px solid $turquoise;
+  font-weight: 600;
+}
+
+// flat list pages (grants, media) — quiet spacing between entries
+.flat-entry {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid $turquoise;
+}
+.flat-entry:last-child {
+  border-bottom: none;
+}
+.flat-entry .entry-dates {
+  font-weight: 600;
+  color: $maroon;
+}
+
+// research theme headings — small mauve rule instead of a heavy border
+.research-theme h2 {
+  border-left: 3px solid $primary;
+  padding-left: 0.6rem;
+}

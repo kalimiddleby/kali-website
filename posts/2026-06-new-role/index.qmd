@@ -1,0 +1,20 @@
+---
+title: "Starting as PTL-3 Fellow at AMAP"
+date: 2026-06-01
+description: "A short one-line summary shown on the Updates listing page."
+image: photo.jpg
+---
+
+A couple of sentences about the update — what happened, where, why it's worth a note.
+
+<!-- Add photo.jpg alongside this file, or delete the `image:` line above if you don't have one yet. -->
+
+![Caption for the photo, if you'd like one.](photo.jpg)
+
+<!--
+TO ADD A NEW UPDATE:
+1. Duplicate this whole "2026-06-new-role" folder.
+2. Rename it to something like "2026-09-fieldwork-cameroon" (date-first keeps them sorting sensibly).
+3. Edit the title/date/description/text above, swap in a new photo.
+4. It appears automatically on the Updates page — no other file needs editing.
+-->

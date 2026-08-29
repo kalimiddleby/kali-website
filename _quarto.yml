@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kali Middleby"
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/kali-website"  # update after repo is created
+  description: "Research on tropical tree ecophysiology, heat and drought stress, and canopy energy balance."
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: grants.qmd
+        text: Grants
+      - href: publications.qmd
+        text: Publications
+      - href: media.qmd
+        text: Media
+      - href: updates.qmd
+        text: Updates
+    right:
+      - icon: envelope
+        href: mailto:your.email@example.com
+        aria-label: Email
+  page-footer:
+    center: "© {{< now year >}} Kali Middleby"
+    border: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    page-layout: article
+    max-width: 780px
+    fontsize: 1.05rem
+    linkcolor: "#3a6b57"
+    grid:
+      body-width: 780px

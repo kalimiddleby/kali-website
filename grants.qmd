@@ -1,0 +1,65 @@
+---
+title: "Grants"
+---
+
+::: {.flat-entry}
+<span class="entry-dates">2026:</span> University of Montpellier<br>
+*– PTL-3 Postdoctoral Fellowship (Early Career Researcher)* — awarded in open competition based on submission and defence of an independent research project proposal, within the PTL-3 framework ("Biodiversity, ecology, and evolution in the face of global change"). Project: "Predicting leaf lifespan in tropical forests: integrating age-dependent thermoregulation and optimality under climate warming." €48,600 (salary grant), 1.5 years.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2026:</span> European Geophysical Union<br>
+*– Travel Grant*, to attend the EGU General Assembly, Vienna. €925.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> New Phytologist Foundation<br>
+*– Travel Grant*, to attend New Phytologist Next Generation Scientists (invited participant), Birmingham — a highly competitive symposium for early-career plant scientists. £300.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2025:</span> Smithsonian Tropical Research Institute<br>
+*– Ernst Mayr Fellowship* — annual award to the most outstanding performer in the Short-Term Fellowship Program. Project: "Assessing tropical tree resilience to high temperatures: the role of stomatal sensitivity to atmospheric dryness." $7,950 USD.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2021–2024:</span> Ecological Society of Australia<br>
+*– Holsworth Wildlife Research Endowment* — award to carry out independent ecological research. Project: "Integrating climate adaptation into rainforest restoration." $20,260 AUD over 3 years.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2021–2024:</span> Skyrail Rainforest Foundation<br>
+*– Skyrail Rainforest Research Grant* — independent research project of scientific merit meeting the science and conservation goals of the Foundation. Project: "Thermal extremes of tropical trees." $15,000 AUD over 3 years.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2022:</span> TESS Annual Meeting<br>
+*– Best Photo and Video Award*. $600 AUD.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2020:</span> Australian Government / James Cook University<br>
+*– Research Training Program Stipend* — highly competitive postgraduate research scholarship. Project: "Patterns and drivers of leaf thermoregulation in rainforest trees of the Australian Wet Tropics." $134,000 AUD (living stipend) over 4 years.<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2019:</span> DAAD, University of Göttingen<br>
+*– Deutschlandstipendium ("Germany Scholarship")* — merit-based scholarship awarded on the grounds of talent, performance, and other criteria such as special personal achievements and social commitment. €3,600 (living stipend).<br>
+**Middleby, K.**
+:::
+
+::: {.flat-entry}
+<span class="entry-dates">2019:</span> AKB Stiftung, University of Göttingen<br>
+*– Kreativität im Studium ("Creativity in Research Competition")* — scholarship winner for the excellent design and implementation of a research project. Project: "Investigating the use of stable oxygen isotope analysis in determining photosynthesis-weighted canopy leaf temperature." €5,000.<br>
+**Middleby, K.**
+:::
+
+<!-- Full list from your CV, most recent first. Duplicate a .flat-entry block for anything new. -->
