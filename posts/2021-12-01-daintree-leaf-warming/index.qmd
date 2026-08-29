@@ -1,0 +1,8 @@
+---
+title: "Warming leaves at the Daintree Rainforest Observatory"
+date: 2021-12-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

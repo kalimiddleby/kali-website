@@ -1,0 +1,8 @@
+---
+title: "National Geographic Expedition to Mt Windsor, Australia"
+date: 2017-09-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

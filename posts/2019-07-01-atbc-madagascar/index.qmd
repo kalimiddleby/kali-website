@@ -1,0 +1,8 @@
+---
+title: "ATBC Conference, Madagascar"
+date: 2019-07-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

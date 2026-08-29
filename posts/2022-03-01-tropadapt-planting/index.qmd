@@ -1,0 +1,8 @@
+---
+title: "Planting out the provenance trials for TropAdapt"
+date: 2022-03-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

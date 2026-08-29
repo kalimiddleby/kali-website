@@ -1,0 +1,8 @@
+---
+title: "Article and thermal image featured on the cover of GCB"
+date: 2025-09-01
+---
+
+<!-- Add 1 photo here: photo1.jpg -->
+
+<!-- ![](photo1.jpg) -->

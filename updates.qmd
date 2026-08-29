@@ -5,6 +5,8 @@ listing:
   sort: "date desc"
   type: default
   fields: [date, title, description, image]
+  field-display-names:
+    date: "Date"
   date-format: "MMMM YYYY"
 page-layout: full
 ---

@@ -1,0 +1,8 @@
+---
+title: "New Phytologist Symposium on Extreme Heat, Córdoba"
+date: 2026-06-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

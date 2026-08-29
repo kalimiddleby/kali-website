@@ -1,17 +1,18 @@
 /*-- scss:defaults --*/
 
-$sage: #A7C7C1;          // main background
-$lavender-grey: #B3B4C5; // cards / secondary blocks / image backgrounds
-$plum: #74144F;          // accent — headings, active nav, buttons, emphasis
-$offwhite: #F1EFF4;      // primary content background
-$text: #35445F;          // body text
+$plum: #64214c;          // banner background, headings, small emphasis
+$sage: #a0bbb6;          // overall site background, thin line separators
+$content-bg: #dbd8e1;    // main content background
+$card-bg: #d2d0dd;       // background for specific content blocks (cards)
+$on-plum: #e9ebef;       // text sitting on the dark plum banner
+$text: #5a5a70;          // body text
 
 $primary: $plum;
 $body-color: $text;
 $link-color: $plum;
 $headings-color: $plum;
-$navbar-bg: $sage;
-$navbar-fg: $text;
+$navbar-bg: $plum;
+$navbar-fg: $on-plum;
 $footer-bg: $sage;
 $footer-fg: $text;
 $font-size-root: 17px;
@@ -25,9 +26,9 @@ body {
   background-color: $sage;
 }
 
-// the main content sits as a soft off-white card over the sage page background
+// the main content sits as a soft card over the sage page background
 main.content {
-  background-color: $offwhite;
+  background-color: $content-bg;
   border-radius: 14px;
   padding: 2.5rem 3rem;
   margin-top: 1.5rem;
@@ -41,6 +42,7 @@ main.content {
   }
 }
 
+// dark plum banner for site name + nav
 .navbar {
   box-shadow: none;
   border-bottom: none;
@@ -48,22 +50,26 @@ main.content {
 
 .navbar-title {
   font-weight: 600;
-  color: $plum !important;
+  color: $on-plum !important;
 }
 
 .navbar-nav .nav-link {
-  color: $text !important;
+  color: $on-plum !important;
+  opacity: 0.85;
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-  color: $plum !important;
-  border-bottom: 2px solid $plum;
+  opacity: 1;
+  color: $on-plum !important;
+  border-bottom: 2px solid $on-plum;
 }
 
 // text-led header, no chunky banner block
 #title-block-header {
   margin-bottom: 1.5rem;
+  border-bottom: 1px solid $sage;
+  padding-bottom: 1rem;
   .title {
     font-size: 1.75rem;
     font-weight: 600;
@@ -84,18 +90,18 @@ table {
   border-spacing: 0;
   width: 100%;
   font-size: 0.95rem;
-  background-color: $lavender-grey;
+  background-color: $card-bg;
   border-radius: 10px;
   overflow: hidden;
 }
 table th, table td {
   padding: 0.6rem 0.9rem;
-  border-bottom: 1px solid rgba(255,255,255,0.4);
+  border-bottom: 1px solid $sage;
   text-align: left;
   color: $text;
 }
 table th {
-  background-color: rgba(116, 20, 79, 0.08);
+  background-color: rgba(100, 33, 76, 0.08);
   font-weight: 600;
   color: $plum;
 }
@@ -105,7 +111,7 @@ table tr:last-child td {
 
 // flat list pages (grants, media) — card entries
 .flat-entry {
-  background-color: $lavender-grey;
+  background-color: $card-bg;
   border-radius: 10px;
   padding: 1.2rem 1.4rem;
   margin-bottom: 1rem;
@@ -114,19 +120,27 @@ table tr:last-child td {
   font-weight: 600;
   color: $plum;
 }
+.flat-entry .entry-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.6rem;
+  gap: 1rem;
+}
 .flat-entry .entry-amount {
   display: inline-block;
   background-color: $plum;
-  color: $offwhite;
+  color: $on-plum;
   border-radius: 999px;
   padding: 0.2rem 0.8rem;
   font-size: 0.85rem;
   font-weight: 600;
+  white-space: nowrap;
 }
 
-// research theme cards — small plum rule + card background
+// research theme cards
 .research-theme {
-  background-color: $lavender-grey;
+  background-color: $card-bg;
   border-radius: 10px;
   padding: 1.4rem 1.6rem;
   margin-bottom: 1.4rem;
@@ -135,4 +149,8 @@ table tr:last-child td {
   border-left: 3px solid $plum;
   padding-left: 0.6rem;
   margin-top: 0;
+}
+
+hr {
+  border-top: 1px solid $sage;
 }

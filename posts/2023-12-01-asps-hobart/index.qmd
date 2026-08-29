@@ -1,0 +1,8 @@
+---
+title: "ASPS Conference, Hobart"
+date: 2023-12-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

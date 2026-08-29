@@ -1,0 +1,8 @@
+---
+title: "Article and thermal image featured on cover of Nature"
+date: 2023-08-20
+---
+
+<!-- Add 1 photo here: photo1.jpg -->
+
+<!-- ![](photo1.jpg) -->

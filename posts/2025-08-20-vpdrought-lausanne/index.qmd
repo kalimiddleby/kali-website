@@ -1,0 +1,8 @@
+---
+title: "VPDrought workshop, Lausanne"
+date: 2025-08-20
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

@@ -1,0 +1,8 @@
+---
+title: "...and so the PhD comes to an end"
+date: 2024-12-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

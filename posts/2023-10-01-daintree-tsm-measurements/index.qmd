@@ -1,0 +1,8 @@
+---
+title: "Measuring thermal safety margins at the Daintree TropAdapt site"
+date: 2023-10-01
+---
+
+<!-- Add 4 photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->

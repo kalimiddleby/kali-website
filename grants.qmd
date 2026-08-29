@@ -6,60 +6,90 @@ title: "Grants"
 
 ::: {.flat-entry}
 <span class="entry-dates">2026</span> · University of Montpellier<br>
-*"Predicting leaf lifespan in tropical forests: integrating age-dependent thermoregulation and optimality under climate warming"* — PTL-3 Postdoctoral Fellowship<br>
-Middleby, K. (PI) &nbsp;·&nbsp; 1.5 years &nbsp;·&nbsp; <span class="entry-amount">€48,600</span>
+**PTL-3 Postdoctoral Fellowship** — *"Predicting leaf lifespan in tropical forests: integrating age-dependent thermoregulation and optimality under climate warming"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">€48,600</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2026</span> · European Geophysical Union<br>
-*Travel Grant — EGU General Assembly, Vienna*<br>
-Middleby, K. (PI) &nbsp;·&nbsp; <span class="entry-amount">€925</span>
+**Travel Grant** — EGU General Assembly, Vienna
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">€925</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2025</span> · New Phytologist Foundation<br>
-*Travel Grant — New Phytologist Next Generation Scientists, Birmingham*<br>
-Middleby, K. (PI) &nbsp;·&nbsp; <span class="entry-amount">£300</span>
+**Travel Grant** — New Phytologist Next Generation Scientists, Birmingham
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">£300</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2025</span> · Smithsonian Tropical Research Institute<br>
-*"Assessing tropical tree resilience to high temperatures: the role of stomatal sensitivity to atmospheric dryness"* — Ernst Mayr Fellowship<br>
-Middleby, K. (PI) &nbsp;·&nbsp; 3 months &nbsp;·&nbsp; <span class="entry-amount">$7,950 USD</span>
+**Ernst Mayr Fellowship** — *"Assessing tropical tree resilience to high temperatures: the role of stomatal sensitivity to atmospheric dryness"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">$7,950 USD</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2021–2024</span> · Ecological Society of Australia<br>
-*"Integrating climate adaptation into rainforest restoration"* — Holsworth Wildlife Research Endowment<br>
-Middleby, K. (PI) &nbsp;·&nbsp; 3 years &nbsp;·&nbsp; <span class="entry-amount">$20,260 AUD</span>
+**Holsworth Wildlife Research Endowment** — *"Integrating climate adaptation into rainforest restoration"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">$20,260 AUD</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2021–2024</span> · Skyrail Rainforest Foundation<br>
-*"Thermal extremes of tropical trees"* — Skyrail Rainforest Research Grant<br>
-Middleby, K. (PI) &nbsp;·&nbsp; 3 years &nbsp;·&nbsp; <span class="entry-amount">$15,000 AUD</span>
+**Skyrail Rainforest Research Grant** — *"Thermal extremes of tropical trees"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">$15,000 AUD</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2022</span> · TESS Annual Meeting<br>
-*Best Photo and Video Award*<br>
-Middleby, K. &nbsp;·&nbsp; <span class="entry-amount">$600 AUD</span>
+**Best Photo and Video Award**
+<div class="entry-footer">
+<span>Middleby, K.</span>
+<span class="entry-amount">$600 AUD</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2020</span> · Australian Government / James Cook University<br>
-*"Patterns and drivers of leaf thermoregulation in rainforest trees of the Australian Wet Tropics"* — Research Training Program Stipend<br>
-Middleby, K. (PI) &nbsp;·&nbsp; 4 years &nbsp;·&nbsp; <span class="entry-amount">$134,000 AUD</span>
+**Research Training Program Stipend** — *"Patterns and drivers of leaf thermoregulation in rainforest trees of the Australian Wet Tropics"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">$134,000 AUD</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2019</span> · DAAD, University of Göttingen<br>
-*Deutschlandstipendium ("Germany Scholarship")*<br>
-Middleby, K. &nbsp;·&nbsp; <span class="entry-amount">€3,600</span>
+**Deutschlandstipendium** ("Germany Scholarship")
+<div class="entry-footer">
+<span>Middleby, K.</span>
+<span class="entry-amount">€3,600</span>
+</div>
 :::
 
 ::: {.flat-entry}
 <span class="entry-dates">2019</span> · AKB Stiftung, University of Göttingen<br>
-*"Investigating the use of stable oxygen isotope analysis in determining photosynthesis-weighted canopy leaf temperature"* — Kreativität im Studium<br>
-Middleby, K. (PI) &nbsp;·&nbsp; <span class="entry-amount">€5,000</span>
+**Kreativität im Studium** — *"Investigating the use of stable oxygen isotope analysis in determining photosynthesis-weighted canopy leaf temperature"*
+<div class="entry-footer">
+<span>Middleby, K. (PI)</span>
+<span class="entry-amount">€5,000</span>
+</div>
 :::

@@ -1,0 +1,8 @@
+---
+title: "EGU Conference, Vienna"
+date: 2026-05-01
+---
+
+<!-- Add 2 photos here: photo1.jpg, photo2.jpg -->
+
+<!-- ![](photo1.jpg) -->

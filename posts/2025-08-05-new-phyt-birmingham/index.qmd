@@ -1,0 +1,8 @@
+---
+title: "New Phytologist Next Generation Scientists Conference, Birmingham"
+date: 2025-08-05
+---
+
+<!-- Add 1 photo here: photo1.jpg -->
+
+<!-- ![](photo1.jpg) -->

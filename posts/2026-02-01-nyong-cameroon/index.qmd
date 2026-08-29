@@ -1,0 +1,8 @@
+---
+title: "Leaf gas exchange on the Nyong, Cameroon"
+date: 2026-02-01
+---
+
+<!-- Add photos here: photo1.jpg, photo2.jpg, ... -->
+
+<!-- ![](photo1.jpg) -->
