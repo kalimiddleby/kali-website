@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9cacce263e7dbe8c032594308a285de7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4e9854e700c598ea9c62a6de73ec2071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -159,19 +159,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I’m a plant ecophysiologist interested in how climate change, particularly warming, shapes plant function and ecosystem resilience. My research integrates physiological, ecological, and modelling approaches to understand how leaves and canopies interact with their thermal environment, and increasingly seeks to scale these processes up to the species and community level. My work combines field physiology with process-based vegetation modelling (TROLL, PlantSimEngine, PlantBiophysics).</p>
-<!-- Adapted from your CV's Research Interests section — edit freely. -->
+<p>I’m a plant ecophysiologist interested in how climate change, particularly warming, shapes plant function and ecosystem resilience. My research integrates physiological, ecological, and modelling approaches to understand how leaves and canopies interact with their thermal environment, and increasingly seeks to scale these processes up to the species and community level. I use natural environmental gradients alongside manipulative experiments — both in-situ and in climate chambers — to study acclimation to heat and drought stress, and the trade-offs between them.</p>
 <div class="link-list">
 <p><a href="https://scholar.google.com/citations?user=Yv08IiIAAAAJ&amp;hl=de">Google Scholar</a> &nbsp;·&nbsp; <a href="https://orcid.org/0000-0002-9323-0870">ORCID</a> &nbsp;·&nbsp; <a href="https://bsky.app/profile/kalimiddleby.bsky.social">Bluesky</a> &nbsp;·&nbsp; <a href="https://twitter.com/KaliMiddleby">Twitter / X</a> &nbsp;·&nbsp; <a href="mailto:kalimiddleby@gmail.com">Email</a></p>
 </div>
-<!-- Email still needs your real address — swap it into the mailto: link above. -->
 <section id="professional-experience" class="level2">
 <h2 class="anchored" data-anchor-id="professional-experience">Professional experience</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 20%">
+<col style="width: 16%">
 <col style="width: 34%">
-<col style="width: 46%">
+<col style="width: 50%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -182,32 +180,32 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Jun 2026 –</td>
+<td>2026–2027</td>
 <td>PTL-3 Postdoc Fellow</td>
 <td>AMAP, University of Montpellier, France</td>
 </tr>
 <tr class="even">
-<td>Apr 2025 – Jun 2026</td>
+<td>2025–2026</td>
 <td>Postdoc</td>
 <td>AMAP, IRD Occitanie, France</td>
 </tr>
 <tr class="odd">
-<td>Jan – Apr 2025</td>
+<td>2025</td>
 <td>Ernst Mayr Postdoc Fellow</td>
 <td>Smithsonian Tropical Research Institute, Panama</td>
 </tr>
 <tr class="even">
-<td>Dec 2024 – Feb 2025</td>
+<td>2024–2025</td>
 <td>Postdoc</td>
 <td>James Cook University, Australia</td>
 </tr>
 <tr class="odd">
-<td>2020 – 2024</td>
+<td>2020–2024</td>
 <td>PhD, Natural and Physical Sciences (Cum Laude, University Medal of Excellence)</td>
 <td>James Cook University, Australia</td>
 </tr>
 <tr class="even">
-<td>2017 – 2020</td>
+<td>2017–2020</td>
 <td>B.Sc. Honours, Molecular Ecosystem Science (First Class Honours, ranked 1st in cohort)</td>
 <td>University of Göttingen, Germany</td>
 </tr>
@@ -216,11 +214,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="research-locations" class="level2">
 <h2 class="anchored" data-anchor-id="research-locations">Research locations</h2>
-<div id="research-map" style="height: 320px; border-radius: 6px; margin-top: 0.5rem;"></div>
+<div id="research-map" style="height: 320px; border-radius: 10px; margin-top: 0.5rem;"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  const map = L.map('research-map', {scrollWheelZoom: false}).setView([10, 10], 2);
+  const map = L.map('research-map', {scrollWheelZoom: false}).setView([15, 15], 2);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors',
     maxZoom: 18
@@ -228,17 +226,24 @@ ul.task-list li input[type="checkbox"] {
 
   const sites = [
     { name: "James Cook University / Daintree, Australia", coords: [-16.92, 145.77] },
-    { name: "STRI, Panama", coords: [9.0, -79.5] },
+    { name: "Smithsonian Tropical Research Institute, Panama", coords: [9.0, -79.5] },
     { name: "Mbalmayo, Cameroon", coords: [3.52, 11.51] },
     { name: "AMAP, Montpellier, France", coords: [43.61, 3.88] },
-    { name: "Paracou, French Guiana", coords: [5.28, -52.93] }
+    { name: "Paracou, French Guiana", coords: [5.28, -52.93] },
+    { name: "University of Göttingen, Germany", coords: [51.53, 9.94] }
   ];
 
   sites.forEach(site => {
-    L.marker(site.coords).addTo(map).bindPopup(site.name);
+    L.circleMarker(site.coords, {
+      radius: 8,
+      fillColor: "#74144F",
+      color: "#F1EFF4",
+      weight: 2,
+      fillOpacity: 0.9
+    }).addTo(map).bindPopup(site.name);
   });
 </script>
-<!-- Coordinates above are approximate — adjust as needed, and add/remove field sites. -->
+<!-- Coordinates are approximate — adjust as needed, and add/remove field sites. -->
 
 
 </section>
