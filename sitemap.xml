@@ -2,30 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/publications.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/grants.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/updates.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
   </url>
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/media.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2023-12-01-asps-hobart/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2025-08-20-vpdrought-lausanne/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2023-08-05-esa-portland/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2024-05-01-first-lead-author-paper/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2026-07-01-panini-press-mbalmayo/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2026-02-01-nyong-cameroon/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2021-12-01-daintree-leaf-warming/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2025-03-01-stri-panama/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2026-06-new-role/index.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2025-06-01-atbc-oaxaca/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2026-05-01-egu-vienna/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/media.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2022-03-01-tropadapt-planting/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2022-05-01-fnq-trait-campaign/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2023-10-01-daintree-tsm-measurements/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2024-12-01-phd-ends/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2020-06-01-hainich-forest-isotopes/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2025-08-05-new-phyt-birmingham/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2022-12-01-humidifiers-installed/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2017-09-01-mt-windsor-expedition/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2026-06-01-new-phyt-cordoba/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2025-09-01-gcb-cover/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2019-07-01-atbc-madagascar/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/posts/2023-08-20-nature-cover/index.html</loc>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/index.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.403Z</lastmod>
   </url>
   <url>
     <loc>https://YOUR-GITHUB-USERNAME.github.io/kali-website/research.html</loc>
-    <lastmod>2026-08-29T18:29:01.091Z</lastmod>
+    <lastmod>2026-08-29T20:27:34.404Z</lastmod>
   </url>
 </urlset>
