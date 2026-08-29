@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Middleby, K., et al. (in review). Title. Target journal."
+  },
+  {
+    "objectID": "publications.html#in-review-in-prep",
+    "href": "publications.html#in-review-in-prep",
+    "title": "Publications",
+    "section": "",
+    "text": "Middleby, K., et al. (in review). Title. Target journal."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nMiddleby, K., et al. (2026). Title. Journal, vol(issue), pages. DOI"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nMiddleby, K., et al. (2025). Title. Journal, vol(issue), pages. DOI"
+  },
+  {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Grants",
+    "section": "",
+    "text": "2026–2027: [Funder name] – [Grant title] Middleby, K. and [collaborators]\n\n\n2025: [Funder name] – [Grant title] Middleby, K."
+  },
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "Starting as PTL-3 Fellow at AMAP\n\n\nA short one-line summary shown on the Updates listing page.\n\n\n\n\n\nJune 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "2026: [Outlet name] Title / description of the piece\n\n\n2025: [Outlet name] Title / description of the piece"
+  },
+  {
+    "objectID": "posts/2026-06-new-role/index.html",
+    "href": "posts/2026-06-new-role/index.html",
+    "title": "Starting as PTL-3 Fellow at AMAP",
+    "section": "",
+    "text": "A couple of sentences about the update — what happened, where, why it’s worth a note.\n\n\n\n\nCaption for the photo, if you’d like one."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kali Middleby",
+    "section": "",
+    "text": "I’m a postdoctoral researcher studying tropical tree ecophysiology — how leaves manage heat and drought stress, and what that means for canopy energy balance and forest carbon and water cycling under climate change. My work combines field physiology with process-based vegetation modelling (TROLL, PlantSimEngine, PlantBiophysics)."
+  },
+  {
+    "objectID": "index.html#past-institutions",
+    "href": "index.html#past-institutions",
+    "title": "Kali Middleby",
+    "section": "Past institutions",
+    "text": "Past institutions\n\n\n\n\n\n\n\n\nDates\nRole\nInstitution\n\n\n\n\n2026–\nPTL-3 Fellow\nAMAP, University of Montpellier, France\n\n\n2025–2026\nPostdoc\nAMAP, IRD, France\n\n\n2025\nErnst Mayr Fellow\nSTRI, Panama\n\n\n2025\nPostdoc\nJames Cook University, Australia\n\n\n2024\nPhD (cum laude, University Medal of Excellence)\nJames Cook University, Australia"
+  },
+  {
+    "objectID": "index.html#research-locations",
+    "href": "index.html#research-locations",
+    "title": "Kali Middleby",
+    "section": "Research locations",
+    "text": "Research locations"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "One short paragraph: the question, why it matters, what you’ve found so far.\n\nCitation: Author A, Middleby K, Author C. Year. Title. Journal, vol(issue), pages. DOI"
+  },
+  {
+    "objectID": "research.html#leaf-thermoregulation-and-thermal-safety-margins",
+    "href": "research.html#leaf-thermoregulation-and-thermal-safety-margins",
+    "title": "Research",
+    "section": "",
+    "text": "One short paragraph: the question, why it matters, what you’ve found so far.\n\nCitation: Author A, Middleby K, Author C. Year. Title. Journal, vol(issue), pages. DOI"
+  },
+  {
+    "objectID": "research.html#canopy-energy-balance-and-heat-stress",
+    "href": "research.html#canopy-energy-balance-and-heat-stress",
+    "title": "Research",
+    "section": "Canopy energy balance and heat stress",
+    "text": "Canopy energy balance and heat stress\nOne short paragraph.\nCitation: Middleby K, et al. Year. Title. Journal. DOI"
+  },
+  {
+    "objectID": "research.html#scaling-leaf-physiology-to-ecosystem-carbon-and-water-dynamics",
+    "href": "research.html#scaling-leaf-physiology-to-ecosystem-carbon-and-water-dynamics",
+    "title": "Research",
+    "section": "Scaling leaf physiology to ecosystem carbon and water dynamics",
+    "text": "Scaling leaf physiology to ecosystem carbon and water dynamics\nOne short paragraph — TROLL / PlantSimEngine / PlantBiophysics modelling work.\nCitation: Middleby K, et al. Year. Title. Journal. DOI"
+  },
+  {
+    "objectID": "research.html#stomatalphotosynthesis-decoupling-under-heat-and-vpd-stress",
+    "href": "research.html#stomatalphotosynthesis-decoupling-under-heat-and-vpd-stress",
+    "title": "Research",
+    "section": "Stomatal–photosynthesis decoupling under heat and VPD stress",
+    "text": "Stomatal–photosynthesis decoupling under heat and VPD stress\nOne short paragraph.\nCitation: Middleby K, et al. Year. Title. Journal. DOI"
+  }
+]
